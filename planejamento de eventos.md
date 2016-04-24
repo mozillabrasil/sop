@@ -1,7 +1,12 @@
 # Planejamento de Eventos
+#### Orientações gerais: 
+* Seja objetivo e transparente;
+* Forneça informações corretas e sólidas;
+* Faça notas ao final para detalhar algo extenso;
+* Respeite a ortografia e revise a escrita;
 
 
-#### Template de planejamento de evento para [Mozilla Etherpad](https://public.etherpad-mozilla.org): 
+#### Template de planejamento para [Mozilla Etherpad](https://public.etherpad-mozilla.org): 
 ```
 ## Nome do Evento: 
 []
