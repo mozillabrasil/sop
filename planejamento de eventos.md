@@ -66,6 +66,13 @@ Sáb, 23 de Abril de 2016 | 13:00h-18:00h
 
 [Exemplo]
 
+*Swag request
+  * Toalha de mesa;
+  * Adesivos;
+  * Credenciais/Acolhedores;
+  * Bottons;
+  * ....
+
 *Budget request
   *Voos
     Mozillian 1: Felipe (http://mozillians.org/m/felipesilva000) 
@@ -75,7 +82,7 @@ Sáb, 23 de Abril de 2016 | 13:00h-18:00h
         *GOL: 900,00 BRL 
     Mozillian 2: Larissa (http://mozillians.org/m/larissavitoria000) 
       *[Campinas <=> Porto Alegre]
-        *Azul: 600,00 BRL
+        *Azul: 600,00 BRL [MAIS ECONÔMICO]
         *TAM: 800,00 BRL
         *GOL: 900,00 BRL
   
