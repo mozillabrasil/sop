@@ -9,20 +9,23 @@
 ## Resumo: 
 []
 
-## Objetivos/Metas: 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* Objetivo 4
+## Objetivos/Metas:
+[Exemplo]
+* Informar e sincronizar a comunidade sobre o programa Connect Devices
+* Capacitar voluntários para desenvolver protótipos e soluções com dispositivos conectados
 
 ## Métricas: 
-* XX - Métrica 1
-* XX - Métrica 2
+[Exemplo]
+* 10 - Pessoas envolvidas em conversação/interação durante o evento;
+* 10 - Pessoas satisfeitas com o evento;
 * XX - Métrica 3
 * XX - Métrica 4
 
 ## Local, Data e Hora: 
-[]
+[Exemplo]
+Coworking X2W
+R. Antônio Lapa, 001 - Cambuí, Campinas - SP, 13025-240
+Sáb, 23 de Abril de 2016 | 13:00h-18:00h
 
 ## Agenda de Atividades: 
 []
