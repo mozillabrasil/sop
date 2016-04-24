@@ -10,10 +10,16 @@
 []
 
 ## Objetivos/Metas: 
-[]
+* Objetivo 1
+* Objetivo 2
+* Objetivo 3
+* Objetivo 4
 
 ## Métricas: 
-[]
+* XX - Métrica 1
+* XX - Métrica 2
+* XX - Métrica 3
+* XX - Métrica 4
 
 ## Local, Data e Hora: 
 []
