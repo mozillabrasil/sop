@@ -19,6 +19,11 @@
 * Capacitar voluntários para desenvolver protótipos e soluções com dispositivos conectados.
 
 ## Métricas: 
+* XX - Métrica 1;
+* XX - Métrica 2;
+* XX - Métrica 3;
+* XX - Métrica 4.
+
 [Exemplo]
 * 10 - Pessoas envolvidas em conversação/interação durante o evento;
 * 10 - Pessoas satisfeitas com o evento;
