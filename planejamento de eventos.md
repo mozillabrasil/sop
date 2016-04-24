@@ -86,7 +86,7 @@ Sáb, 23 de Abril de 2016 | 13:00h-18:00h
         *TAM: 800,00 BRL
         *GOL: 900,00 BRL
   
-  * Hotel/Acomodação
+  *Hotel/Acomodação
     *Ibis Hotel
       Mozillian 1: 150 BRL para 1 noite
       Mozillian 2: 150 BRL para 1 noite
@@ -103,7 +103,7 @@ Sáb, 23 de Abril de 2016 | 13:00h-18:00h
     Mozillian 3: 25 BRL para ònibus/metrô/trem
     Mozillian 4: 25 BRL para ònibus/metrô/trem
 
-  * Montante total
+  *Montante total
   Voos: 1200 BRL
   Hotel: 600 BRL
   Sala: 200 BRL
