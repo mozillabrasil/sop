@@ -66,6 +66,43 @@ Sáb, 23 de Abril de 2016 | 13:00h-18:00h
 
 [Exemplo]
 
+*Budget request
+  *Voos
+    Mozillian 1: Felipe (http://mozillians.org/m/felipesilva000) 
+      *[Campinas <=> Porto Alegre]
+        *Azul: 600,00 BRL [MAIS ECONÔMICO]
+        *TAM: 800,00 BRL
+        *GOL: 900,00 BRL 
+    Mozillian 2: Larissa (http://mozillians.org/m/larissavitoria000) 
+      *[Campinas <=> Porto Alegre]
+        *Azul: 600,00 BRL
+        *TAM: 800,00 BRL
+        *GOL: 900,00 BRL
+  
+  * Hotel/Acomodação
+    *Ibis Hotel
+      Mozillian 1: 150 BRL para 1 noite
+      Mozillian 2: 150 BRL para 1 noite
+      Mozillian 3: 150 BRL para 1 noite
+      Mozillian 4: 150 BRL para 1 noite
+  
+  *Local/Sala
+    2Work Campinas
+      40 BRL (por hora) * 5 H (total de horas) = 200 BRL
+
+  *Transporte Local
+    Mozillian 1: 25 BRL para ònibus/metrô/trem
+    Mozillian 2: 25 BRL para ònibus/metrô/trem
+    Mozillian 3: 25 BRL para ònibus/metrô/trem
+    Mozillian 4: 25 BRL para ònibus/metrô/trem
+
+  * Montante total
+  Voos: 1200 BRL
+  Hotel: 600 BRL
+  Sala: 200 BRL
+  Transporte local: 100 BRL
+  TOTAL: 2100 BRL
+  
 ## Tag: 
 [Mozilla Rep Needed, Swag Request, Budget Request, Connected Devices Innovation Fund, Staff Support Needed]
 ```
