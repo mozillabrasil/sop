@@ -32,10 +32,10 @@ O Mozilla Connect Devices Campinas é um meetup para membros da comunidade da re
 * Capacitar voluntários para desenvolver protótipos e soluções com dispositivos conectados.
 
 ## Métricas: 
-* XX - Métrica 1;
-* XX - Métrica 2;
-* XX - Métrica 3;
-* XX - Métrica 4.
+* [XX] - Métrica 1;
+* [XX] - Métrica 2;
+* [XX] - Métrica 3;
+* [XX] - Métrica 4.
 
 [Exemplo]
 * 10 - Pessoas envolvidas em conversação/interação durante o evento;
@@ -54,7 +54,12 @@ R. Antônio Lapa, 001 - Cambuí, Campinas - SP, 13025-240
 Sáb, 23 de Abril de 2016 | 13:00h-18:00h
 
 ## Agenda de Atividades: 
-[]
+[A agenda deve ser clara e pontual com tempo, atividade e responsável]
+
+[Exemplo]
+*14:00 at 14:20 => Talk: Welcome new Mozillians and presentation of the day's work agenda. [Geraldo Barros]
+*14:20 at 15:20 => Talk: OpenWeb - Mozilla Advocacy (Encrypt). [ITS - Instituto de Tecnologia e Sociedade do Rio de Janeiro]
+*15:30 at 16:20 => Talk: Connect Devices/IoT. [Andre Natal]
 
 ## Recursos Necessários: 
 []
