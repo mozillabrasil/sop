@@ -18,8 +18,8 @@
 [Exemplo]
 * 10 - Pessoas envolvidas em conversação/interação durante o evento;
 * 10 - Pessoas satisfeitas com o evento;
-* XX - Métrica 3
-* XX - Métrica 4
+* 03 - Blog-post/Artigos gerados;
+* 10 - Impressões de social midia.
 
 ## Local, Data e Hora: 
 [Exemplo]
