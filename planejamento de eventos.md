@@ -3,16 +3,24 @@
 * Seja objetivo e transparente;
 * Forneça informações corretas e sólidas;
 * Faça notas ao final para detalhar algo extenso;
-* Respeite a ortografia e revise a escrita;
+* Tome como base o layout do exemplo de cada etapa;
+* Respeite a ortografia e revise a escrita.
 
 
 #### Template de planejamento para [Mozilla Etherpad](https://public.etherpad-mozilla.org): 
 ```
 ## Nome do Evento: 
-[]
+[Nome do Evento]
+
+[Exemplos]
+* Connect Devices Maker Campinas
+* Mozilla Connect Devices Campinas
 
 ## Resumo: 
-[]
+[Resumo pequeno do seu evento]
+
+[Exemplo]
+O Mozilla Connect Devices Campinas é um meetup para membros da comunidade da região de Campinas que vão se unir para trocar experiências, alinhar-se ao programa de Connect Devices da Mozilla e promover a capacitação com cursos rápidos de IoT/Internet das Coisas utilizando dispositivos como Arduíno, Raspeberry Pi e Intel Edison.
 
 ## Objetivos/Metas:
 * Objetivo 1;
