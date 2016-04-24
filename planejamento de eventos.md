@@ -31,6 +31,10 @@
 * 10 - Impressões de social midia.
 
 ## Local, Data e Hora: 
+[Nome do Local]
+[Logradouro], [Número] - [Bairro], [Complemento], [Cidade] - [UF], [CEP]
+[dia da semana], [dia do mês] de [mês] de [ano] | [hora de inicio]-[hora de encerramento]
+
 [Exemplo]
 Coworking X2W
 R. Antônio Lapa, 001 - Cambuí, Campinas - SP, 13025-240
@@ -43,5 +47,5 @@ Sáb, 23 de Abril de 2016 | 13:00h-18:00h
 []
 
 ## Tag: 
-[Mozilla Rep Needed, Question, Staff Support Needed]
+[Mozilla Rep Needed, Swag Request, Budget Request, Connect Devices Innovation Fund, Staff Support Needed]
 ```
