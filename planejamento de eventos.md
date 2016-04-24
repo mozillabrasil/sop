@@ -54,7 +54,7 @@ R. Antônio Lapa, 001 - Cambuí, Campinas - SP, 13025-240
 Sáb, 23 de Abril de 2016 | 13:00h-18:00h
 
 ## Agenda de Atividades: 
-[A agenda deve ser clara e pontual com tempo, atividade e responsável]
+[A agenda deve ser clara e pontual com tempo/hora, atividade e responsável]
 
 [Exemplo]
 *14:00 at 14:20 => Talk: Welcome new Mozillians and presentation of the day's work agenda. [Geraldo Barros]
@@ -62,7 +62,9 @@ Sáb, 23 de Abril de 2016 | 13:00h-18:00h
 *15:30 at 16:20 => Talk: Connect Devices/IoT. [Andre Natal]
 
 ## Recursos Necessários: 
-[]
+[Pontue o que você vai precisar, categorize, descreva os itens e dependendo do item descreva o seu responsável]
+
+[Exemplo]
 
 ## Tag: 
 [Mozilla Rep Needed, Swag Request, Budget Request, Connected Devices Innovation Fund, Staff Support Needed]
