@@ -10,14 +10,14 @@
 #### Template de planejamento para [Mozilla Etherpad](https://public.etherpad-mozilla.org): 
 ```
 ## Nome do Evento: 
-[Nome do Evento]
+[Nome do Evento: claro, objetivo, simples e criativo]
 
 [Exemplos]
 * Connect Devices Maker Campinas
 * Mozilla Connect Devices Campinas
 
 ## Resumo: 
-[Resumo pequeno do seu evento]
+[Resumo pequeno do seu evento com informações de nome, formato, público e objetivos]
 
 [Exemplo]
 O Mozilla Connect Devices Campinas é um meetup para membros da comunidade da região de Campinas que vão se unir para trocar experiências, alinhar-se ao programa de Connect Devices da Mozilla e promover a capacitação com cursos rápidos de IoT/Internet das Coisas utilizando dispositivos como Arduíno, Raspeberry Pi e Intel Edison.
