@@ -10,9 +10,13 @@
 []
 
 ## Objetivos/Metas:
+* Objetivo 1;
+* Objetivo 2;
+* Objetivo 3.
+
 [Exemplo]
-* Informar e sincronizar a comunidade sobre o programa Connect Devices
-* Capacitar voluntários para desenvolver protótipos e soluções com dispositivos conectados
+* Informar e sincronizar a comunidade sobre o programa Connect Devices;
+* Capacitar voluntários para desenvolver protótipos e soluções com dispositivos conectados.
 
 ## Métricas: 
 [Exemplo]
