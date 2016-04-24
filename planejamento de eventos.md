@@ -47,5 +47,5 @@ Sáb, 23 de Abril de 2016 | 13:00h-18:00h
 []
 
 ## Tag: 
-[Mozilla Rep Needed, Swag Request, Budget Request, Connect Devices Innovation Fund, Staff Support Needed]
+[Mozilla Rep Needed, Swag Request, Budget Request, Connected Devices Innovation Fund, Staff Support Needed]
 ```
